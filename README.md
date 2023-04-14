@@ -1,8 +1,6 @@
 ## About this folder:
 - This folder contains all the code used for our simulation experiments in the paper “Mixed Linear Regression via Approximate Message Passing” (AISTATS 2023).
 
-- This folder contains all the code used for our simulation experiments.
-
 - Codes are divided into the different sub-folders.
 
 - Under each sub-folder, the respective code will be located there.
